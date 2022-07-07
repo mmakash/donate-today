@@ -91,7 +91,7 @@ a {
     border: none;
     border-bottom: 2px solid salmon;
     display: block;
-    padding-bottom: 5px;
+    padding: 5px;
     margin-left: 515px;
     margin-bottom: 50px;
     width: 300px;
